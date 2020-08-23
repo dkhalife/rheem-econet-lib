@@ -1,0 +1,27 @@
+{
+  "name": "rheem-econet-lib",
+  "version": "1.0.0",
+  "description": "Library of APIs to handle connections to Rheem Econet devices",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkhalife/rheem-econet-lib.git"
+  },
+  "keywords": [
+    "rheem",
+    "econet",
+    "smart",
+    "home",
+    "clearblade",
+    "library"
+  ],
+  "author": "Dany Khalife",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkhalife/rheem-econet-lib/issues"
+  },
+  "homepage": "https://github.com/dkhalife/rheem-econet-lib#readme"
+}
