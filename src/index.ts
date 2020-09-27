@@ -1,3 +1,4 @@
 import * as ClearBlade from 'clearblade';
 
-ClearBlade.init();
+// ClearBlade.init();
+console.log('test')
