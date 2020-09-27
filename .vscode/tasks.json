@@ -11,6 +11,16 @@
                 "kind": "build",
                 "isDefault": true
             }
+        },
+        {
+            "type": "npm",
+            "script": "start:dev",
+            "problemMatcher": [
+                "$tsc-watch"
+            ],
+            "label": "npm: start:dev",
+            "detail": "nodemon",
+            "isBackground": true
         }
     ]
 }
