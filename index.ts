@@ -1,1 +1,3 @@
-console.log("Initial commit");
+import * as ClearBlade from 'clearblade';
+
+ClearBlade.init();

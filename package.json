@@ -26,5 +26,8 @@
   "homepage": "https://github.com/dkhalife/rheem-econet-lib#readme",
   "devDependencies": {
     "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "clearblade": "^1.13.0"
   }
 }
