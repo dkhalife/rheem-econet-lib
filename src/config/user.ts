@@ -11,8 +11,12 @@ export const user = (() => {
         }
     }
 
-    if (local.email && local.password) {
-        return local
+    if (local) {
+        const local_user = local.user;
+
+        if (local_user.email && local_user.password) {
+            return local_user
+        }
     }
 
     throw new Error("Unable to detect user email and password. Did you forget to edit the user.local.ts file?");
