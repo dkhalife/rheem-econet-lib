@@ -33,6 +33,7 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "clearblade": "^1.13.0"
+    "clearblade": "^1.13.0",
+    "node-fetch": "^2.6.1"
   }
 }
